@@ -28,18 +28,6 @@ We believe in turning ideas into reality. Whether it's a campus startup or a gro
 
 ---
 
-## 📹 Watch Our Journey
-
-<div align="center">
-  <a href="https://www.youtube.com/@E-CELLMITMeerut">
-    <img src="https://img.youtube.com/vi/F2q5PZTT4H8/maxresdefault.jpg" alt="YouTube Video" width="100%" />
-  </a>
-</div>
-
-> Catch the spirit of entrepreneurship in action on our [YouTube Channel](https://www.youtube.com/@E-CELLMITMeerut)
-
----
-
 ## 🌐 Connect With Us
 
 | Platform      | Link |
@@ -73,4 +61,4 @@ We believe in turning ideas into reality. Whether it's a campus startup or a gro
 
 ---
 
-![MIT E-Cell Logo](https://ecell.mitmuf.com/assets/images/logo.png) <!-- Add or change logo URL as needed -->
+![MIT E-Cell Logo](https://res.cloudinary.com/dp2olwtzp/image/upload/v1745312055/E_CELL_logo_wide_khcnsq.png) <!-- Add or change logo URL as needed -->
