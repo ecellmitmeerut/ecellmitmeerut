@@ -61,4 +61,4 @@ We believe in turning ideas into reality. Whether it's a campus startup or a gro
 
 ---
 
-![MIT E-Cell Logo](https://res.cloudinary.com/dp2olwtzp/image/upload/v1745312055/E_CELL_logo_wide_khcnsq.png) <!-- Add or change logo URL as needed -->
+![MIT E-Cell Logo](https://res.cloudinary.com/dp2olwtzp/image/upload/v1745303768/Teal_Illustration_Digital_Business_Blog_Banner_ifmezl.jpg) <!-- Add or change logo URL as needed -->
