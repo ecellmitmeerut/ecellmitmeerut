@@ -1,6 +1,6 @@
 # 🚀 E-Cell MIT Meerut - Startup Pitching & Innovation Hub
 
-![E-Cell Banner](https://ecell.mitmuf.com/assets/images/hero-bg.jpg) <!-- Replace with actual banner image -->
+![E-Cell Banner](https://res.cloudinary.com/dp2olwtzp/image/upload/v1745309220/about_2_eec8g6.jpg) <!-- Replace with actual banner image -->
 
 > **Empowering Student Entrepreneurs | Fueling Innovation | Building the Future**
 
